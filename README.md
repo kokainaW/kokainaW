@@ -1,6 +1,6 @@
-# 🎨 [Ofiare Khoko] - Software Engineer 🚀
+# 🎨 Ofiare Khoko - Software Engineer 🚀
 
-Welcome to my portfolio! I am a passionate software engineer with experience in **[list your specialties, e.g., full-stack development, mobile app development, machine learning, etc.]**. Below you can find information about my projects, skills, and contact details.
+Welcome to my portfolio! I am a passionate software engineer with experience in full-stack development, mobile app development, and machine learning. Below you can find information about my projects, skills, and contact details.
 
 ## 🗂️ Table of Contents
 1. [👤 About Me](#about-me)
@@ -13,24 +13,24 @@ Welcome to my portfolio! I am a passionate software engineer with experience in 
 
 ## 👤 About Me
 
-I am a software engineer with **[X] years of experience** in the industry. My passion for technology and continuous learning drives me to stay updated with the latest trends and advancements. I enjoy solving complex problems and building innovative solutions.
+I am a software engineer with 5 years of experience in the industry. My passion for technology and continuous learning drives me to stay updated with the latest trends and advancements. I enjoy solving complex problems and building innovative solutions.
 
 ## 🛠️ Skills
 
 ### 🖥️ Programming Languages
-- **Languages**: Python, JavaScript, Java, C++, [add more]
-- **Frameworks**: React, Angular, Node.js, Django, Spring Boot, [add more]
-- **Tools**: Git, Docker, Kubernetes, AWS, Azure, [add more]
+- **Languages**: Python, JavaScript, Java, C++.
+- **Frameworks**: React, Angular, Node.js, Django, Spring Boot.
+- **Tools**: Git, Docker, Kubernetes, AWS, Azure.
 
 ### 🌐 Development
-- **Frontend**: HTML5, CSS3, SASS, Tailwind CSS, [add more]
-- **Backend**: RESTful APIs, GraphQL, Microservices, [add more]
-- **Databases**: MySQL, PostgreSQL, MongoDB, Redis, [add more]
+- **Frontend**: HTML5, CSS3, SASS, Tailwind CSS.
+- **Backend**: RESTful APIs, GraphQL, Microservices.
+- **Databases**: MySQL, PostgreSQL, MongoDB, Redis.
 
 ### 🎛️ Others
-- **DevOps**: CI/CD, Jenkins, Terraform, [add more]
-- **Testing**: Unit Testing, Integration Testing, Selenium, [add more]
-- **Other Skills**: Agile Methodologies, TDD, BDD, [add more]
+- **DevOps**: CI/CD, Jenkins, Terraform.
+- **Testing**: Unit Testing, Integration Testing, Selenium.
+- **Other Skills**: Agile Methodologies, TDD, BDD.
 
 ## 💻 Projects
 
@@ -79,7 +79,7 @@ I am a software engineer with **[X] years of experience** in the industry. My pa
 
 ## 📬 Contact
 
-- **✉️ Email**: [your.email@example.com](mailto:your.email@example.com)
+- **✉️ Email**: [williamkhoko@yahoo.com](mailto:your.email@example.com)
 - **🔗 LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
 - **🐙 GitHub**: [Your GitHub Profile](https://github.com/yourusername)
 - **🌐 Portfolio**: [Your Portfolio Website](http://yourportfolio.com)
