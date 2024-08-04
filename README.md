@@ -80,9 +80,9 @@ I am a software engineer with 5 years of experience in the industry. My passion 
 ## 📬 Contact
 
 - **✉️ Email**: [williamkhoko@yahoo.com](mailto:williamkhoko@yahoo.com)
-- **🔗 LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/osakpamukhoko-ofiare-a2278076)
+- **🔗 LinkedIn**: [Ofiare Khoko](https://www.linkedin.com/in/osakpamukhoko-ofiare-a2278076)
 - **🐙 GitHub**: [kokainaW](https://github.com/kokainaW)
-- **🌐 Portfolio**: [Your Portfolio Website](http://yourportfolio.com)
+- **🌐 Portfolio**: [wilpowa.tech](http://wilpowa.tech)
 
 Feel free to reach out if you have any questions or if you would like to collaborate on a project!
 
