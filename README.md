@@ -79,9 +79,9 @@ I am a software engineer with 5 years of experience in the industry. My passion 
 
 ## 📬 Contact
 
-- **✉️ Email**: [williamkhoko@yahoo.com](mailto:your.email@example.com)
+- **✉️ Email**: [williamkhoko@yahoo.com](mailto:williamkhoko@yahoo.com)
 - **🔗 LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **🐙 GitHub**: [Your GitHub Profile](https://github.com/yourusername)
+- **🐙 GitHub**: [Your GitHub Profile](https://github.com/kokainaW)
 - **🌐 Portfolio**: [Your Portfolio Website](http://yourportfolio.com)
 
 Feel free to reach out if you have any questions or if you would like to collaborate on a project!
