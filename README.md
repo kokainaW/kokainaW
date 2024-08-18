@@ -34,7 +34,7 @@ I am a software engineer with 5 years of experience in the industry. My passion 
 
 ## 💻 Projects
 
-### 🏆 [Project 1: Warriors of the Ancients](link to project or repository)
+#### 🏆 Project 1: Warriors of the Ancients(link to project or repository)
 - **Description**: Warriors of the Ancients" is a fighting game inspired by the classic Mortal Kombat series but set in a rich, historical African context. The game features legendary African warriors, each with unique powers, special moves, and fatalities rooted in their historical backgrounds and mythologies.
 - **Technologies Used**: Unity,C#, frameworks, and tools used in the project.
 - **Features**: Highlight the key features and functionalities of the project.
@@ -63,13 +63,6 @@ I am a software engineer with 5 years of experience in the industry. My passion 
 - **Duration**: [Start Date] - [End Date]
 - **Responsibilities**: List your key responsibilities and achievements.
 - **Projects**: Mention any significant projects you worked on.
-
-## 🎓 Education
-
-### 📚 [Degree - ALX Africa](link to university)
-- **Duration**: [Start Date] - [End Date]
-- **Major**: Software Engineering
-- **Achievements**: List any relevant achievements or honors.
 
 ## 📜 Certifications
 
